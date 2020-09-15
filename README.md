@@ -13,4 +13,4 @@ This app will tell you a joke when you need it the most. Sometimes is so not fun
 
 :star: GIF: [Giphy](https://giphy.com/)
 
-*This project is part of the 20 projects with vanilla javascript by Zero to Mastery*
+*This project is part of the [Zero to Master couse](https://academy.zerotomastery.io/p/javascript-projects). Project 4 of 20.*
