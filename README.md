@@ -12,3 +12,5 @@ This app will tell you a joke when you need it the most. Sometimes is so not fun
 :hammer: Jokes API  : [Joke API](https://sv443.net/jokeapi/v2/)
 
 :star: GIF: [Giphy](https://giphy.com/)
+
+*This project is part of the 20 projects with vanilla javascript by Zero to Mastery*
